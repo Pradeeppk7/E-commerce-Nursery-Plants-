@@ -1,0 +1,10 @@
+h1{    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Redressed', cursive;
+}
+.buybt{
+    background-color: aliceblue; color: green;
+}
+.buybt:hover{
+    background-color: rgb(126, 230, 126);
+     transition: .5s;
+}
